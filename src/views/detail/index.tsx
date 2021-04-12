@@ -13,7 +13,7 @@ function Detail(props: any) {
     // })
     return (
         <View>
-            
+            <Text>cccc</Text>
             <Text>Detail</Text>
         </View>
     )
