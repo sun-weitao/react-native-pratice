@@ -13,6 +13,7 @@ function Detail(props: any) {
     // })
     return (
         <View>
+            
             <Text>Detail</Text>
         </View>
     )
